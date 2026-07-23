@@ -1,0 +1,32 @@
+﻿# Contract Review Checklist
+## Before you sign
+A contract can allocate money, risk, deadlines, and ownership. Read every page and identify the law and forum that apply. The Contract Act, 1872 remains a core reference, subject to later legislation.
+- Confirm every party’s legal name, authority, address, and identity.
+- Check that schedules, specifications, prices, and referenced policies are attached.
+- Never sign a blank page or rely on a promise that is not written.
+---PAGE---
+# Commercial terms
+## Make the deal measurable
+Ambiguous price, scope, delivery, acceptance, and payment terms create disputes.
+- Define deliverables, milestones, taxes, currency, invoices, and late-payment consequences.
+- State who bears shipping, insurance, approvals, and change-order costs.
+- Include a process for variations, notices, and recordkeeping.
+---PAGE---
+# Risk and remedies
+## Plan for problems
+Review warranties, indemnities, liability caps, insurance, confidentiality, and intellectual-property ownership.
+- Check whether exclusions are mutual and whether a cap has sensible exceptions.
+- Identify termination triggers, cure periods, return of property, and survival clauses.
+- Ensure dispute escalation, jurisdiction, and governing law are workable.
+---PAGE---
+# Signing and performance
+## Keep an audit trail
+Authority and execution formalities matter. Some transactions require witnesses, registration, stamping, or notarisation.
+- Confirm the signatory’s board resolution, power of attorney, or other authority.
+- Keep the signed version, amendments, invoices, approvals, and delivery evidence together.
+- Calendar renewal, notice, warranty, and limitation dates.
+---PAGE---
+# Official source and reminder
+## Checked July 2026
+- Pakistan Code, Contract Act, 1872: https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tmaQ%253D%253D-sg-jjjjjjjjjjjjj
+The Contract Act is not a substitute for transaction-specific review. Obtain qualified advice for high-value, regulated, or cross-border agreements.

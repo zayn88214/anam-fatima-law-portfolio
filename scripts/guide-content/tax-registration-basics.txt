@@ -1,0 +1,33 @@
+﻿# Tax Registration Basics
+## Prepare before using IRIS
+The Federal Board of Revenue (FBR) uses IRIS for income-tax registration and returns. Requirements differ for individuals, associations, and companies.
+- Gather CNIC, mobile number, email, address, and bank-account details.
+- Keep business name, premises evidence, utility bill, and principal activity ready where applicable.
+- Use only an official FBR domain and protect your login credentials.
+---PAGE---
+# Individual registration
+## Typical information
+FBR’s registration guidance asks individuals for identity, contact, residence, and financial information. The exact fields and attachments can change.
+- Confirm your CNIC and mobile ownership before starting.
+- Record the registration/NTN reference and download the acknowledgement.
+- Update changes promptly rather than opening duplicate profiles.
+---PAGE---
+# Business records
+## Keep the tax file current
+Businesses may need partnership, incorporation, premises, bank, and representative information in addition to individual details.
+- Keep invoices, expense proofs, payroll, withholding records, and sales-tax documents organised.
+- Separate personal and business transactions where possible.
+- Calendar return, payment, withholding, and registration-update dates.
+---PAGE---
+# If something goes wrong
+## Verify before paying
+Use FBR’s official helpline and portal notices for account or filing issues. Never share an OTP or password with an intermediary.
+- Screenshot error messages and note the date and IRIS transaction ID.
+- Reconcile tax payments with the CPR or bank confirmation.
+- Seek qualified tax advice for penalties, audits, notices, or cross-border income.
+---PAGE---
+# Official sources and reminder
+## Checked July 2026
+- FBR, Register for Income Tax: https://www.fbr.gov.pk/categ/register-income-tax/51147/30846/71149
+- FBR IRIS: https://iris.fbr.gov.pk/
+Registration is not a determination of tax liability. Verify current FBR requirements and deadlines.
